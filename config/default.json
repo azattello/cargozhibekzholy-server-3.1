@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:e7z54T4sbL8z3qym@zhibek-zholy.jod3wjx.mongodb.net/?retryWrites=true&w=majority&appName=zhibek-zholy",
+    "secretKey" : "mern-secret-key"
+}
